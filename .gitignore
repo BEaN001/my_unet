@@ -6,3 +6,4 @@ ckpt
 train_unet.py
 conf.text
 train_resnet_unet.py
+train_resunet.py
