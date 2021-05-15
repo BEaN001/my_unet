@@ -7,3 +7,5 @@ train_unet.py
 conf.text
 train_resnet_unet.py
 train_resunet.py
+train_unetppL2.py
+train_resunetppL2.py
